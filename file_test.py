@@ -1,9 +1,7 @@
 
 def main():
-    print("This is File test")
-
-    print("Line Added from Main Branch")
-    print("Line Added from TEst Branch")
+    print("This is File Added from test branch")
+    print("Changed this in Main branch")
 
 
 if __name__== "__main__":
