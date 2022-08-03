@@ -3,8 +3,6 @@ def main():
     print("This is main Branch")
     print("This is main Branch2")
 
-    print("This is test Branch")
-
     print("Line from Test branch")
 
 if __name__== "__main__":
